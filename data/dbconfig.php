@@ -2,9 +2,9 @@
 date_default_timezone_set("Asia/Seoul");
 
 define('MYSQL_HOST', 'localhost');
-define('MYSQL_USER', 'smileday0');
-define('MYSQL_PASSWORD', 'dnjswn00');
-define('MYSQL_DB', 'smileday0');
+define('MYSQL_USER', '0000');
+define('MYSQL_PASSWORD', '0000');
+define('MYSQL_DB', '0000');
 define('MYSQL_SET_MODE', false);
 define('DISPLAY_SQL_ERROR', true);
 define('SERVER_TIME',    time());
